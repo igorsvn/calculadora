@@ -1,5 +1,3 @@
-import Calculadora from "./calculadora";
-
 function CalculadoraService() {
 
     const SOMA = '+';
